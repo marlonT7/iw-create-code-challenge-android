@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kitsu Client Challenge.iml" filepath="$PROJECT_DIR$/Kitsu Client Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Poke Api Client Challenge-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Poke Api Client Challenge-app.iml" group="Poke Api Client Challenge/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Poke_Api_Client_Challenge.iml" filepath="$PROJECT_DIR$/.idea/modules/Poke_Api_Client_Challenge.iml" group="Poke_Api_Client_Challenge" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Kitsu Client Challenge/app" />
+      <module fileurl="file://$PROJECT_DIR$/jetpackexercise-Kitsu Client Challenge.iml" filepath="$PROJECT_DIR$/jetpackexercise-Kitsu Client Challenge.iml" group="Kitsu Client Challenge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetpackexercise-Poke_Api_Client_Challenge.iml" filepath="$PROJECT_DIR$/.idea/modules/jetpackexercise-Poke_Api_Client_Challenge.iml" group="Poke_Api_Client_Challenge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/jetpackexercise-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/jetpackexercise-app.iml" group="Poke Api Client Challenge/app" />
+    </modules>
+  </component>
+</project>

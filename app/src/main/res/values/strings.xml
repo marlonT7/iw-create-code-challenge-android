@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Poke Api Client Challenge</string>
+    <string name="pokemon_Id">0</string>
+    <string name="pokemon_name">Missigno</string>
+    <string name="pokemon_thumbnail">Pokemon thumbnail</string>
+    <string name="id_label">ID número: </string>
+    <string name="pokemon_name_label">Nombre: </string>
+    <string name="pokemon_stats_label">Estadísticas: </string>
+    <string name="pokemon_Weight_label">Peso: </string>
+    <string name="pokemon_abilities_label">Habilidades</string>
+    <string name="pokemon_moves_label">Movimientos</string>
+    <string name="pokemon_held_items_label">Artículos cargados</string>
+    <string name="regresar">Regresar</string>
+    <string name="height_label">"Altura: "</string>
+    <string name="base_experience_label">"Experiencia base: "</string>
+
+</resources>
